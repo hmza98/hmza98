@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Software Engineer 
-- 🌱 I’m currently learning Blockchain and mobile technologies
-- 💞️ I’m looking to collaborate on Blockchain and mobile projects
+- 💞️ I’m looking to collaborate on Full-Stack and mobile projects
 - 📫 How to reach me hamzamukhtar9819@gmail.com
 
 <!---
