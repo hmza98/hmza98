@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Software Engineer 
-- 💞️ I’m looking to collaborate on Full-Stack web/mobile projects
+- 👋 Hi, I’m a Senior Software Engineer 
+- 💞️ Looking to collaborate on Full-Stack web/mobile projects
 - 📫 How to reach me hamzamukhtar9819@gmail.com
 
 <!---
